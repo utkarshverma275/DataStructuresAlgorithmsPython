@@ -1,4 +1,4 @@
-Data Structures
+Data Structures and Algorithms in Python
 
 - Arrays
 - Stacks Queues and Deques
